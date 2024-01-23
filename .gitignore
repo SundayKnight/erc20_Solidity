@@ -9,7 +9,6 @@ node_modules
 coverage
 coverage.json
 typechain
-deploy
 
 # don't push the environment vars!
 .env
